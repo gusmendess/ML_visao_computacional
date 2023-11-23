@@ -1,5 +1,5 @@
-# Guia de Detecção de Objetos com YoloV5
-<p>Esssa documentação fornece um conjunto completo de códigos para treinar e usar seu próprio modelo personalizado de detecção de objetos usando a API de Detecção de Objetos do Yolov5.
+# Object Detection Guide with YoloV5
+<p>This documentation provides a complete set of codes for training and using your own custom object detection model using the Yolov5 Object Detection API.
 
 <img src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov5/v70/splash.png">
 
