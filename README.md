@@ -5,7 +5,7 @@
 
 ## Steps
 <br />
-<b>Step 1.</b> Open the repo on google collab: <a href="https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+<b>Step 1.</b> Open the repo on google collab: <a href="[https://colab.research.google.com/github/ultralytics/yolov5/blob/master/tutorial.ipynb](https://colab.research.google.com/github/gusmendess/gusmendess/blob/main/Object_Detection_YoloV5.ipynb)"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 <br/><br/>
 <b>Step 2.</b> Make sure you are in a Python environment and connect to a Virtual GPU (NOTE: The available GPUs have different processing powers, choose the best available)
 <pre>
